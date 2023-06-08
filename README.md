@@ -1,1 +1,2 @@
-Author: Nabil Khatib
+#!/bin/bash
+readme file information
